@@ -55,10 +55,10 @@ Aqui temos os um projeto para introduzir e consolidar os principais conceitos da
 
 ### Módulo 01 - Fundamentos PHP e funcionamento web
 
-- [Aula 1](aula-01)
-- [Aula 2](aula-02)
-- [Aula 3](aula-03)
-- [Aula 4](aula-04)
+- [Aula 1](/aula-01)
+- [Aula 2](/aula-02)
+- [Aula 3](/aula-03)
+- [Aula 4](/aula-04)
 - [Aula 5](aula-05)
 - [Aula 6](aula-06)
 - [Aula 7](aula-07)
