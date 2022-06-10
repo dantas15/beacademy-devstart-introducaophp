@@ -53,21 +53,17 @@ Aqui temos os um projeto para introduzir e consolidar os principais conceitos da
 
 ## Exercicios
 
-### Módulo 01 - Fundamentos PHP e funcionamento web
+### Fundamentos PHP e Programação Estruturada
 
-- [Aula 1](modulo-01/aula-01)
-- [Aula 2](modulo-01/aula-02)
-- [Aula 3](modulo-01/aula-03)
-- [Aula 4](modulo-01/aula-04)
-- [Aula 5](modulo-01/aula-05)
-- [Aula 6](modulo-01/aula-06)
-- [Aula 7](modulo-01/aula-07)
-- [Aula 8](modulo-01/aula-08)
-- [Aula 9](modulo-01/aula-09)
-- [Aula 10](modulo-01/aula-10)
-- [Aula 11](modulo-01/aula-011)
-- [Aula 12](modulo-01/aula-012)
-
-### Módulo 02 - POO (Programação Orientada a Objetos)
-
-not yet implemented :(
+- [Aula 1](aula-01)
+- [Aula 2](aula-02)
+- [Aula 3](aula-03)
+- [Aula 4](aula-04)
+- [Aula 5](aula-05)
+- [Aula 6](aula-06)
+- [Aula 7](aula-07)
+- [Aula 8](aula-08)
+- [Aula 9](aula-09)
+- [Aula 10](aula-10)
+- [Aula 11](aula-11)
+- [Aula 12](aula-12)
